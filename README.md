@@ -1,1 +1,1 @@
-# CodingJournal
+# Coding Journal
